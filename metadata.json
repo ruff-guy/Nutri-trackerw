@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack",
+  "description": "Track daily calories intake, burned activities, custom food items with photos, set goals, and view net balance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
